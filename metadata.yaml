@@ -1,5 +1,5 @@
 _repo: Eversti-Stalhammar-Kuvauksia-Ruotsin-suuruuden-ajoilta_51471
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Överste Stålhammar. Finnish
 contributor:
   translator:
@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '42573'
     url: http://www.gutenberg.org/2009/agents/42573
     wikipedia: https://fi.wikipedia.org/wiki/Lauri_Soini
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Starbäck, C. Georg (Carl Georg)
@@ -26,6 +29,8 @@ creator:
     gutenberg_agent_id: '45593'
     url: http://www.gutenberg.org/2009/agents/45593
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51471#Eversti-Stalhammar-Kuvauksia-Ruotsin-suuruuden-ajoilta
 gutenberg_issued: '2016-03-16'
 gutenberg_type: Text
 identifiers:
