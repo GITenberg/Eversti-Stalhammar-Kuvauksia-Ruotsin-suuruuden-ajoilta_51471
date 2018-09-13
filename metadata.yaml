@@ -1,0 +1,44 @@
+_repo: Eversti-Stalhammar-Kuvauksia-Ruotsin-suuruuden-ajoilta_51471
+_version: 0.0.1
+alternative_title: Överste Stålhammar. Finnish
+contributor:
+  translator:
+    agent_name: Soini, Lauri
+    aliases:
+    - Soininen, L.
+    - Ahava, Juho
+    - Sauramo, Lauri
+    birthdate: 1875
+    deathdate: 1919
+    gutenberg_agent_id: '42573'
+    url: http://www.gutenberg.org/2009/agents/42573
+    wikipedia: https://fi.wikipedia.org/wiki/Lauri_Soini
+creator:
+  author:
+    agent_name: Starbäck, C. Georg (Carl Georg)
+    aliases:
+    - Carl Georg Starbäck
+    - Starbäck, Carl Georg
+    - Starbäck, Georg
+    - Starback, C. Georg (Carl Georg)
+    birthdate: 1828
+    deathdate: 1885
+    gutenberg_agent_id: '45593'
+    url: http://www.gutenberg.org/2009/agents/45593
+description: ''
+gutenberg_issued: '2016-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51471'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+- !lcsh 'Historical fiction'
+- !lcsh 'Stålhammar, Per, approximately 1612-1701 -- Fiction'
+- GITenberg
+title: 'Eversti Stålhammar: Kuvauksia Ruotsin suuruuden ajoilta'
+url: http://www.gutenberg.org/ebooks/51471
